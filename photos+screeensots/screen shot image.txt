@@ -1,0 +1,5 @@
+
+The DPI value is read by some devices (such as printers) to determine how your image should be presented on a medium (such as paper). For example, a printing shop may request that a photo is submitted with 300 DPI rather than 72 DPI. The printer would then output a larger number of dots for every inch, resulting in a sharper image.
+An image DPI value may be changed by opening the file inside Adobe Photoshop or Illustrator. However, it is much simpler to change the DPI of an image using the tool provided above.
+Note: MS Paint is not a reliable way to verify the DPI of an image. Paint displays your monitor's DPI setting rather than the DPI stored in the file, so it will always show the same value (e.g. 96 or 120) regardless of what is embedded in the image. To verify the DPI after conversion: on Windows, right-click the file in Explorer, choose Properties → Details, and check the Horizontal Resolution field; on Mac, open the file in Preview and choose Tools Inspector.
+-

@@ -1,0 +1,43 @@
+Research Testing Results
+
+Cropped-Digital-image-taken from Phone
+Response Time: 46.80s
+
+Cropped english camera image digital
+58.62 s
+
+Cropped Urdu Blurry Image Digital
+2 min
+
+Handwritten camera taken sample Cropped
+1.5 min	
+
+Taking Too long to shoot error for 5MB Image Limit (It Sucks)
+
+Handwritten blurry image sample, Cropped and Also Reduce size to 50% Down
+1.2 min	
+
+
+Raw Images - Rotated, Orignal Taken From Camera- No Edit (Bulk OCR Processing)
+(4+MB Sized Image)
+- Handwritten English Sample - 4mins
+- Digital Non-english Sample - 3.8 min
+- 150 DPI Digital English Sample - 2.1 min	
+
+
+
+Screenshot and Digital Photos
+- Digital Photo - 21.28 s
+- Stylish text Photo - 9.5 s
+- screen shot image - 6.92 s
+
+Screenshot and Digital photos 
+- 300DPi Stylish text Photo - 9.28s
+- 300DPI screen shot image - 9.24s
+- 150dpi Digital Photo - 19.28s
+
+
+Image Size Affect Response Time
+
+
+PDF to Word Converting Response time is just 3.9s
